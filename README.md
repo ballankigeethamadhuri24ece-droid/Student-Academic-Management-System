@@ -62,8 +62,4 @@ Here is a screenshot of the program output:
 
 ---
 
-## ⚡ How to Run
 
-1. Clone the repository:  
-```bash
-git clone <your-repo-url>
